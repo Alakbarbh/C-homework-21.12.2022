@@ -1,0 +1,5 @@
+C:\Users\halak\OneDrive\Desktop\Alakbar's homework programmers\Abstraction Interface\Abstraction Interface\obj\Debug\net6.0\Abstraction,Interface,Static,Extention.csproj.AssemblyReference.cache
+C:\Users\halak\OneDrive\Desktop\Alakbar's homework programmers\Abstraction Interface\Abstraction Interface\obj\Debug\net6.0\Abstraction,Interface,Static,Extention.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\halak\OneDrive\Desktop\Alakbar's homework programmers\Abstraction Interface\Abstraction Interface\obj\Debug\net6.0\Abstraction,Interface,Static,Extention.AssemblyInfoInputs.cache
+C:\Users\halak\OneDrive\Desktop\Alakbar's homework programmers\Abstraction Interface\Abstraction Interface\obj\Debug\net6.0\Abstraction,Interface,Static,Extention.AssemblyInfo.cs
+C:\Users\halak\OneDrive\Desktop\Alakbar's homework programmers\Abstraction Interface\Abstraction Interface\obj\Debug\net6.0\Abstraction,Interface,Static,Extention.csproj.CoreCompileInputs.cache

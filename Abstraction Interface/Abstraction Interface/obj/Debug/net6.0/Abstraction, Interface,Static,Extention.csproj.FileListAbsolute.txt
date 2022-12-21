@@ -1,0 +1,30 @@
+C:\Users\halak\OneDrive\Desktop\Alakbar's homework programmers\Abstraction Interface\Abstraction Interface\bin\Debug\net6.0\Abstraction, Interface,Static,Extention.exe
+C:\Users\halak\OneDrive\Desktop\Alakbar's homework programmers\Abstraction Interface\Abstraction Interface\bin\Debug\net6.0\Abstraction, Interface,Static,Extention.deps.json
+C:\Users\halak\OneDrive\Desktop\Alakbar's homework programmers\Abstraction Interface\Abstraction Interface\bin\Debug\net6.0\Abstraction, Interface,Static,Extention.runtimeconfig.json
+C:\Users\halak\OneDrive\Desktop\Alakbar's homework programmers\Abstraction Interface\Abstraction Interface\bin\Debug\net6.0\Abstraction, Interface,Static,Extention.dll
+C:\Users\halak\OneDrive\Desktop\Alakbar's homework programmers\Abstraction Interface\Abstraction Interface\bin\Debug\net6.0\Abstraction, Interface,Static,Extention.pdb
+C:\Users\halak\OneDrive\Desktop\Alakbar's homework programmers\Abstraction Interface\Abstraction Interface\obj\Debug\net6.0\Abstraction, Interface,Static,Extention.csproj.AssemblyReference.cache
+C:\Users\halak\OneDrive\Desktop\Alakbar's homework programmers\Abstraction Interface\Abstraction Interface\obj\Debug\net6.0\Abstraction, Interface,Static,Extention.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\halak\OneDrive\Desktop\Alakbar's homework programmers\Abstraction Interface\Abstraction Interface\obj\Debug\net6.0\Abstraction, Interface,Static,Extention.AssemblyInfoInputs.cache
+C:\Users\halak\OneDrive\Desktop\Alakbar's homework programmers\Abstraction Interface\Abstraction Interface\obj\Debug\net6.0\Abstraction, Interface,Static,Extention.AssemblyInfo.cs
+C:\Users\halak\OneDrive\Desktop\Alakbar's homework programmers\Abstraction Interface\Abstraction Interface\obj\Debug\net6.0\Abstraction, Interface,Static,Extention.csproj.CoreCompileInputs.cache
+C:\Users\halak\OneDrive\Desktop\Alakbar's homework programmers\Abstraction Interface\Abstraction Interface\obj\Debug\net6.0\Abstraction, Interface,Static,Extention.dll
+C:\Users\halak\OneDrive\Desktop\Alakbar's homework programmers\Abstraction Interface\Abstraction Interface\obj\Debug\net6.0\refint\Abstraction, Interface,Static,Extention.dll
+C:\Users\halak\OneDrive\Desktop\Alakbar's homework programmers\Abstraction Interface\Abstraction Interface\obj\Debug\net6.0\Abstraction, Interface,Static,Extention.pdb
+C:\Users\halak\OneDrive\Desktop\Alakbar's homework programmers\Abstraction Interface\Abstraction Interface\obj\Debug\net6.0\Abstraction, Interface,Static,Extention.genruntimeconfig.cache
+C:\Users\halak\OneDrive\Desktop\Alakbar's homework programmers\Abstraction Interface\Abstraction Interface\obj\Debug\net6.0\ref\Abstraction, Interface,Static,Extention.dll
+C:\Users\halak\OneDrive\Desktop\Homework(21.12.2022)\Abstraction Interface\Abstraction Interface\bin\Debug\net6.0\Abstraction, Interface,Static,Extention.exe
+C:\Users\halak\OneDrive\Desktop\Homework(21.12.2022)\Abstraction Interface\Abstraction Interface\bin\Debug\net6.0\Abstraction, Interface,Static,Extention.deps.json
+C:\Users\halak\OneDrive\Desktop\Homework(21.12.2022)\Abstraction Interface\Abstraction Interface\bin\Debug\net6.0\Abstraction, Interface,Static,Extention.runtimeconfig.json
+C:\Users\halak\OneDrive\Desktop\Homework(21.12.2022)\Abstraction Interface\Abstraction Interface\bin\Debug\net6.0\Abstraction, Interface,Static,Extention.dll
+C:\Users\halak\OneDrive\Desktop\Homework(21.12.2022)\Abstraction Interface\Abstraction Interface\bin\Debug\net6.0\Abstraction, Interface,Static,Extention.pdb
+C:\Users\halak\OneDrive\Desktop\Homework(21.12.2022)\Abstraction Interface\Abstraction Interface\obj\Debug\net6.0\Abstraction, Interface,Static,Extention.csproj.AssemblyReference.cache
+C:\Users\halak\OneDrive\Desktop\Homework(21.12.2022)\Abstraction Interface\Abstraction Interface\obj\Debug\net6.0\Abstraction, Interface,Static,Extention.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\halak\OneDrive\Desktop\Homework(21.12.2022)\Abstraction Interface\Abstraction Interface\obj\Debug\net6.0\Abstraction, Interface,Static,Extention.AssemblyInfoInputs.cache
+C:\Users\halak\OneDrive\Desktop\Homework(21.12.2022)\Abstraction Interface\Abstraction Interface\obj\Debug\net6.0\Abstraction, Interface,Static,Extention.AssemblyInfo.cs
+C:\Users\halak\OneDrive\Desktop\Homework(21.12.2022)\Abstraction Interface\Abstraction Interface\obj\Debug\net6.0\Abstraction, Interface,Static,Extention.csproj.CoreCompileInputs.cache
+C:\Users\halak\OneDrive\Desktop\Homework(21.12.2022)\Abstraction Interface\Abstraction Interface\obj\Debug\net6.0\Abstraction, Interface,Static,Extention.dll
+C:\Users\halak\OneDrive\Desktop\Homework(21.12.2022)\Abstraction Interface\Abstraction Interface\obj\Debug\net6.0\refint\Abstraction, Interface,Static,Extention.dll
+C:\Users\halak\OneDrive\Desktop\Homework(21.12.2022)\Abstraction Interface\Abstraction Interface\obj\Debug\net6.0\Abstraction, Interface,Static,Extention.pdb
+C:\Users\halak\OneDrive\Desktop\Homework(21.12.2022)\Abstraction Interface\Abstraction Interface\obj\Debug\net6.0\Abstraction, Interface,Static,Extention.genruntimeconfig.cache
+C:\Users\halak\OneDrive\Desktop\Homework(21.12.2022)\Abstraction Interface\Abstraction Interface\obj\Debug\net6.0\ref\Abstraction, Interface,Static,Extention.dll
